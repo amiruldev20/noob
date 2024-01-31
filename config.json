@@ -1,9 +1,9 @@
 {
 	"tcp_std": [
-		8880
+		80
 	],
 	"tcp_ssl": [
-		4443
+		443
 	],
 	"ssl_cert": "/etc/noobzvpns/cert.pem",
 	"ssl_key": "/etc/noobzvpns/key.pem",
